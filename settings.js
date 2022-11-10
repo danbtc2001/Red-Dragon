@@ -11,7 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `📤Yooh!Yooh! I am alive and kicking😇
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -33,7 +33,7 @@ global.vcardowner = ['+254795520140'] // owner number
 global.ownername = "😎Specimen X❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.location = "Kenya, Nairobi" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -44,7 +44,7 @@ global.antibad = "false" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
-global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
+global.welcom_msg = "false" // Welcome / Goodbye   [true/false]
 
 
 global.owner = ['+254795520140']
